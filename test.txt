@@ -1,0 +1,90 @@
+	EPIC
+	user_creator = https://jts-prod.panduit.com/jts/users/OR-PV
+
+		STORY ->
+			 -33084
+				 TASK ->
+					 id ->34521
+					 value ->34521: Investigate acceptance #6 and #7 for TwoSided printers
+					 id ->34556
+					 value ->34556: Portable Thermal Printer must not send label margins to the printer
+					 id ->34476
+					 value ->34476: [QA] Testing user story
+					 id ->34640
+					 value ->34640: Consider all labels in the document as one page
+					 id ->34475
+					 value ->34475: [QA] Creation of the test scenarios
+					 id ->34498
+					 value ->34498: Gaps are not disabled if printer type is Thermal otherwise (if gaps is disabled set it to 0)
+					 id ->34643
+					 value ->34643: Printing:DotMatrix: Support Continuous Tape
+					 id ->34474
+					 value ->34474: [QA] Test Plan for the story + acceptance criteria  creation & review
+					 id ->34461
+					 value ->34461: Investigate requirements and complete list of task for this story
+					 id ->34638
+					 value ->34638: Format Editor: Thermal Continuous Type: PageHeight is disabled and calculated automatically: RowsNumber*RepeatHeight
+					 id ->34642
+					 value ->34642: Printing:Portable Thermal: PageMargins are ignored on printing    (but are not ignored on displaying in label editor)
+					 id ->34490
+					 value ->34490: Adjust current format properties editor's validation
+					 id ->34505
+					 value ->34505: Insert cut-line on continuous tape printers on printing
+					 id ->34641
+					 value ->34641: Format Editor: Portable Thermal: Gap is enabled and is equal to 0 by default.
+					 id ->34500
+					 value ->34500: MEM 197/ MEM 197E rename to PES 197/PES 197E
+					 id ->34477
+					 value ->34477: [DEMO] Presentation of the User Story to Client
+					 id ->34499
+					 value ->34499: Remove PTR1, PTR2/PTR2SE, PTR3 formats
+					 id ->34635
+					 value ->34635: Thermal: Onerow format : RepeatHeight field is disabled  and calculated as: RepeatHeight=Gap+PageHeight
+					 id ->34636
+					 value ->34636: Thermal: Gap is used to display space between pages in Label Editor
+					 id ->34501
+					 value ->34501: Support Continuous Tape Thermal Printer when labels overflow page height
+			 -27460
+				 TASK ->
+					 id ->34343
+					 value ->34343: [QA] Test Plan for the story + acceptance criteria  creation & review
+					 id ->34345
+					 value ->34345: [QA] Testing user story
+					 id ->34344
+					 value ->34344: [QA] Creation of the test scenarios
+					 id ->34346
+					 value ->34346: [DEMO] Presentation of the User Story to Client
+			 -33133
+				 TASK ->
+					 id ->34348
+					 value ->34348: [QA] Creation of the test scenarios
+					 id ->34349
+					 value ->34349: [QA] Testing user story
+					 id ->34347
+					 value ->34347: [QA] Test Plan for the story + acceptance criteria  creation & review
+					 id ->34350
+					 value ->34350: [DEMO] Presentation of the User Story to Client
+			 -27463
+				 TASK ->
+			 -27461
+				 TASK ->
+					 id ->34363
+					 value ->34363: [QA] Test Plan for the story + acceptance criteria  creation & review
+					 id ->34364
+					 value ->34364: [QA] Creation of the test scenarios
+					 id ->34366
+					 value ->34366: [DEMO] Presentation of the User Story to Client
+					 id ->34365
+					 value ->34365: [QA] Testing user story
+			 -27459
+				 TASK ->
+					 id ->34341
+					 value ->34341: [QA] Testing user story
+					 id ->34342
+					 value ->34342: [DEMO] Presentation of the User Story to Client
+					 id ->34340
+					 value ->34340: [QA] Creation of the test scenarios
+					 id ->34339
+					 value ->34339: [QA] Test Plan for the story + acceptance criteria  creation & review
+			 -27462
+				 TASK ->
